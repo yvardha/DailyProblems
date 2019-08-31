@@ -1,5 +1,5 @@
 package dailyproblems;
 
-public class AUFG28 {
+public class AUG28 {
 	
 }

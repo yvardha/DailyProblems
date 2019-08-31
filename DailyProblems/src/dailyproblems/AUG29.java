@@ -2,7 +2,7 @@ package dailyproblems;
 
 import java.util.Stack;
 
-public class AUG30 {	
+public class AUG29 {	
 
 	public static boolean solution(String str) {
 		Stack<Character>  s1 = new Stack<Character>();
