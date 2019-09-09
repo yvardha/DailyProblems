@@ -1,7 +1,4 @@
 package dailyproblems;
-
-import com.sun.org.apache.xalan.internal.xsltc.runtime.Node;
-
 public class AUG26 {
 	    static class ListNode{
 		int data;
